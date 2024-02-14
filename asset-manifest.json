@@ -1,0 +1,25 @@
+{
+  "files": {
+    "main.css": "/miavalentine2024/static/css/main.2cd2aa38.css",
+    "main.js": "/miavalentine2024/static/js/main.76a01c48.js",
+    "static/js/592.d3def322.chunk.js": "/miavalentine2024/static/js/592.d3def322.chunk.js",
+    "static/media/rave.JPG": "/miavalentine2024/static/media/rave.26fb9e62b419f76bc103.JPG",
+    "static/media/dinner.jpeg": "/miavalentine2024/static/media/dinner.831dde4f9903ef68b0b9.jpeg",
+    "static/media/hand_holding.jpeg": "/miavalentine2024/static/media/hand_holding.a4c72575020ceff1bbda.jpeg",
+    "static/media/bed.jpeg": "/miavalentine2024/static/media/bed.9d50ce91a3be950548b4.jpeg",
+    "static/media/tree.jpeg": "/miavalentine2024/static/media/tree.b1e5686af1f74053a505.jpeg",
+    "static/media/couch.JPG": "/miavalentine2024/static/media/couch.240604b94aacf2b84272.JPG",
+    "static/media/kiss_bed.JPG": "/miavalentine2024/static/media/kiss_bed.4f9f95ef80b04752f184.JPG",
+    "static/media/mirror_1.JPG": "/miavalentine2024/static/media/mirror_1.b143c5b1f96d1d0c0c11.JPG",
+    "static/media/mirror2.JPG": "/miavalentine2024/static/media/mirror2.2b024a60a9bdb917d98d.JPG",
+    "static/media/logo.svg": "/miavalentine2024/static/media/logo.6ce24c58023cc2f8fd88fe9d219db6c6.svg",
+    "index.html": "/miavalentine2024/index.html",
+    "main.2cd2aa38.css.map": "/miavalentine2024/static/css/main.2cd2aa38.css.map",
+    "main.76a01c48.js.map": "/miavalentine2024/static/js/main.76a01c48.js.map",
+    "592.d3def322.chunk.js.map": "/miavalentine2024/static/js/592.d3def322.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.2cd2aa38.css",
+    "static/js/main.76a01c48.js"
+  ]
+}
